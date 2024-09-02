@@ -133,5 +133,5 @@ pip install .
 ```
 ```.``` refers to current directory
 
-3. Also can be installed from git as well after pushing to githug
+3. Also can be installed from git as well after pushing to github
 
